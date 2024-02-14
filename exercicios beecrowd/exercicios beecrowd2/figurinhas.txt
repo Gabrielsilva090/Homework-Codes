@@ -1,0 +1,11 @@
+BEECROWD FIGURINHAS 
+
+Necessário que tenha uma entrada para a quantidade de vezes que acontecerá o teste
+sendo 1<N<3000
+Duas entradas para cada quantidade de vezes que a entrada teste for chamada
+sendo 1<F1<1000
+1<F2<1000
+
+
+Posso utilizar um método recursivo de MDC para saber qual o maior divisor comum entre os dois números e imprimir o resultado para cada vez que for chamado 
+

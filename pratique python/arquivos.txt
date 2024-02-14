@@ -1,0 +1,12 @@
+Arquivos 
+
+Dois arquivos em cada pasta 
+
+soma dos arquivos não pode passar de B 
+
+entrada N = número de arquivos 
+Entrada B = quantidade de bytes máxima que cada pasta suporta 
+
+Entrada N2 = tamanho de cada arquivo definido por N (quantidade de arquivos) em bytes 
+
+usar sort p/ ordenar lista 

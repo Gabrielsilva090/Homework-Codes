@@ -1,0 +1,13 @@
+problema bondinho 
+
+máximo de pessoas = 50 
+
+dar input no valor A de alunos 
+
+dar input no valor M de monitores
+
+if A + M <= 50 
+print ("S")
+else:
+print("N")
+

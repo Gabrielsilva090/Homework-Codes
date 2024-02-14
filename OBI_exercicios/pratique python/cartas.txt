@@ -1,0 +1,8 @@
+cartas 
+
+criar uma lista []
+
+adicionar itens a lista com input de A = primeiro número da carta, B = segundo número de carta, C = terceiro número de carta 
+
+procurar um comando para ler todos os itens da lista e mostrar o repetido 
+ 

@@ -1,0 +1,13 @@
+soma de frações 
+
+primeiro dar input nos dois primeiros números a e b (a/b)
+em seguida dar input nos próximos dois números c e d (c/d)
+
+fazer com que o número de input de b seja igual ao de d e impedir que seja adicionado um difernete, basicamente pensei na segunda fração o b ser igual ao d 
+
+em seguida criar uma variável para relizar a soma dos a e c 
+
+e achar um número que divida tanto a soma de a e c quanto o b no máximo possível 
+
+
+

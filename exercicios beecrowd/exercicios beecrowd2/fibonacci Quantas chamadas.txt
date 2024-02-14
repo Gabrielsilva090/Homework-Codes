@@ -1,0 +1,14 @@
+Fibonacci, Quantas chamadas? 
+
+Acredito que precise fazer a recursiva de fibonacci (a mais lenta) 
+
+fazer um for para cada chamada e fazer um print, analisar quantas vezes aparecem o número 1 
+(talvez criar um while dentro da recursiva de fibonacci? para salvar os dados que aparecem)
+pegar o valor de vezes que aparecem nesse for e nesse print
+
+puxar esses valores e printar quantas vezes aparecem 
+
+(colocar talvez uma restrição para imprimir apenas a quantidade de vezes que aparecem 1 por exemplo, if N(variavel)
+N>0 adicione a uma função para somar esses valores 
+caso contrário apenas ignore 
+

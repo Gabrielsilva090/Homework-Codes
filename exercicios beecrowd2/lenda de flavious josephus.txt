@@ -1,0 +1,5 @@
+A lenda de Flavious Josephus
+
+Lembrar de implementar a entrada com número de casos que deve aparecer e utilizar o mesmo código 
+e editar o output para a forma que a atividade pede 
+

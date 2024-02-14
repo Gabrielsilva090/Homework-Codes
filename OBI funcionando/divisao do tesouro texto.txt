@@ -1,0 +1,8 @@
+DIVISAO DO TESOURO https://olimpiada.ic.unicamp.br/pratique/pj/2020/f1/tesouro/
+
+input a quantidade de moedas totais
+
+Input o numero de marinheiros 
+colocar -1 que é o capitçao 
+
+fazer uma conta para pegar o valor recebido do calculo da moeda para os marinheiros e multiplicar por dois para o capitão  

@@ -1,0 +1,15 @@
+Código da gangorra 
+
+Primeiro preciso 
+
+dar input no peso1 da criança
+dar input no tamanho da gangorra do lado esquerdo ou seja comprimento1
+dar input no peso2 da segunda criança
+dar input no tamanho da gangorra do lado direito ou seja comprimento2
+
+criar uma variável para realizar o calculo da primeira metade da equação ou seja lado esquerdo
+criar uma variável para relizar o calculo da segunda metade da equação ou sej lado direito da gangorra
+
+criar um if caso a equação seja igual a gangorra estará equilibrada
+elif se a segunda metade do código esteja maior que a primeira então a gangorra estará acima no lado direito e abaixo no lado esquerdo da equação imprimindo -1 
+else caso a segunda metade do código esteja menor que a primeira então a gangorra estará abaixo no lado direito e acima no lado esquerdo da equação imprimindo 1

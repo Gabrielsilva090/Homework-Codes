@@ -1,0 +1,16 @@
+loteria 
+
+Primeiro preciso criar um input para adicionar seis números apostados por flavinho
+Depois preciso dar outro input nos números sorteados pela loteria
+
+Em seguida preciso comparar os dois conjunto de números 
+
+Se tiver acertado três deve printar "terno"
+
+Se tiver acertado quatro números deve printar "quadra"
+
+Se tiver acertado cinco números deve printar "quina"
+
+Se tiver acertado seis números deve printar "Sena"
+
+Se tiver acertado menos que 3 números devo printar "azar" 
